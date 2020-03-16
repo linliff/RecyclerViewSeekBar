@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../LineChart/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LineChart/app/src/main/java/com/linlif/linechart/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/linlif/slidegridview/Adapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/linlif/slidegridview/App.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/linlif/slidegridview/DensityUtil.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/linlif/slidegridview/ItemData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/linlif/slidegridview/ItemDataViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/linlif/slidegridview/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/linlif/slidegridview/Utils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/layout_recycler_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/SqkbCoreComponent/src/main/java/com/jzyd/sqkb/component/core/analysis/statistics/constants/IStatModuleName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/SqkbCoreComponent/src/main/java/com/jzyd/sqkb/component/core/domain/coupon/Coupon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/SqkbCoreComponent/src/main/java/com/jzyd/sqkb/component/core/domain/coupon/HseckillEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/SqkbCoreComponent/src/main/java/com/jzyd/sqkb/component/core/view/text/SqkbNoSpaceTextView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/bu/hseckill/bean/HseckillEventListResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/httptask/HttpApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/adapter/imagepage/ImagePageAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/freebuy/HomeNewUserHtpUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/freebuy/HomeNewUserHttpTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/bean/VipCardItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/bean/VipCardResult.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/http/SqkbHomeFraHttpTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/http/SqkbHomeHttpUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/http/SqkbHomeNewestModeler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/http/SqkbHomeVipHttpTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/SqkbMainHomeNewestFra.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/adapter/HomeVipCardDecoration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/adapter/SqkbHomeNewestRvDecoration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/adapter/SqkbMainHomeNewestAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeBannerViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeHseckillChannelViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeSlideGridViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeSlideItemViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeToolViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeVipAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeVipItemViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHomeVipViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/ui/vh/SqkbHseckillChannelCouponItemWidget.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/home/widget/ParentRecyclerView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/bean/HomeOperResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/bean/TitleBarHotWordsResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/newest/HomeSigninViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/newest/MainHomeNewestHeaderWidget.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/newest/MainHomeNewestModelerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/newest/bean/HomeOper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/pager/recnew/HomeNewFraHttpTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/pager/recnew/HomePageRecNewUIFra.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/java/com/jzyd/coupon/page/main/home/pager/recnew/HomeRecNewPageListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/drawable/bg_newhome_banner_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/drawable/bg_newhome_seckill_time_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/layout/newhome_seckill_channel_coupon_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/layout/page_home_signin_vh.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/layout/page_newhome_banner_vh.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/layout/page_newhome_hseckill_channel_vh.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/layout/page_newhome_tool_vh.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/layout/page_newhome_vip_item_vh.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/app/src/main/res/layout/page_newhome_vip_vh.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sqkb/sqkb_adr_main/exlib/src/main/java/com/androidex/util/DeviceUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
